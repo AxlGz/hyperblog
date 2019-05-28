@@ -1,3 +1,21 @@
+commit 7ab6e0ceef01fa2df90f4afc58079c99188f8841
+Author: Axel Gomez <Axlngzh@gmail.com>
+Date:   Mon May 27 13:22:40 2019 -0500
+
+     Estructura inicial de la cabecera
+
+commit ea64ff77d3ea779124aade505ecfc52620dcfacf
+Author: Axel Gomez <Axlngzh@gmail.com>
+Date:   Mon May 27 13:15:53 2019 -0500
+
+     commit al master del blog post en su version mas reciente
+
+commit 9958cfabf584085bb0e8067c6c5dbe3ce0fda496
+Author: Axel Gomez <Axlngzh@gmail.com>
+Date:   Mon May 27 13:04:33 2019 -0500
+
+    agregando log.txt
+
 commit 57e8646732f8d16f0501adb8e3a314f09fb9014f
 Author: Axel Gomez <Axlngzh@gmail.com>
 Date:   Fri May 24 14:00:00 2019 -0500
